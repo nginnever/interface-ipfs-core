@@ -30,7 +30,9 @@
   "dependencies": {
     "bs58": "^3.0.0",
     "chai": "^3.5.0",
-    "ipfs-merkle-dag": "^0.6.0"
+    "detect-node": "^2.0.3",
+    "ipfs-merkle-dag": "^0.6.0",
+    "stream-equal": "^0.1.8"
   },
   "devDependencies": {
     "aegir": "^3.0.4"
